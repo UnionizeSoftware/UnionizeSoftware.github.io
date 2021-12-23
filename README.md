@@ -1,4 +1,4 @@
-## It's time to Unionize.Software
+## The world runs on the software we create. It's time to Unionize.Software
 
 ### Why
 Coming soon.
