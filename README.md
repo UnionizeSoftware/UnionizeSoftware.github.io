@@ -9,4 +9,5 @@ Coming soon.
 ### Help
 
 Contact us at lets@unionize.software
-Visit https://github.com/UnionizeSoftware/UnionizeSoftware.github.io to contribute
+
+[Contribute directly on Github](https://github.com/UnionizeSoftware/UnionizeSoftware.github.io)
